@@ -12,7 +12,8 @@
     ],
     "require": {
         "php": ">=5.4",
-        "symfony/symfony": ">=2.1"
+        "symfony/http-kernel": ">=2.1",
+        "symfony/validator": ">=2.1"
     },
     "autoload": {
         "psr-4": { "Bafford\\CSSColorValidatorBundle\\": "" }
